@@ -1,11 +1,9 @@
 # Welcome to My Portfolio
 
 Hello, I'm Samik Bhushal, a passionate developer with experience in building web and mobile applications. This repository showcases a collection of my projects, each demonstrating my skills in various technologies.
-
+### PROJECTS
 ## GiftDelivery App
-
-One of the key projects in my portfolio is the **GiftDelivery App**, where I developed an application for managing and sending gifts. This project was built using **[Technology Used]**, and it serves as a great example of my ability to create fully functional applications from the ground up.
-
+The Gift Delivery Application project is designed to provide a user-friendly platform for ordering and managing gift deliveries. Developed using Node.js, Express.js, MongoDB, and Cordova, the app integrates a cloud-hosted database and hybrid deployment for web and Android platforms.
 You can explore the code for the **GiftDelivery App** here:  
 [GiftDelivery App Repository](https://github.com/samik723/giftdeliveryApp)
 
